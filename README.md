@@ -7,7 +7,7 @@
 
  
 #### To build Decision Tree, we use two different algorithms.
-1. ID3 (Iterative Dichotomiser)
+1. ID3 (Iterative Dichotomiser-3)
    - Entropy, Information Gain
 3. CART (Classification And Regression Tree)
    - Gini Index
