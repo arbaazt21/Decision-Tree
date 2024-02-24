@@ -3,7 +3,7 @@
 - It is a Supervised Machine Learning Algorithm.
 - It is used for both Classification and Regression.
 - But preferrably used for classification.
-- It is a TREE like structure, thatis why it is called as Decision Tree.
+- It is a TREE-like-structure, that is why it is called as Decision Tree.
 
  
 #### To build Decision Tree, we use two different algorithms.
