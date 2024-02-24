@@ -1,6 +1,6 @@
 # Decision-Tree
 
-- It is a Supervied Machine Learning Algorithm.
+- It is a Supervised Machine Learning Algorithm.
 - It is used for both Classification and Regression.
 - It is a TREE like structure, thatis why it is called as Decision Tree.
 - But preferrably used for classification.
